@@ -12,7 +12,7 @@
 
 **Ho Chi Minh City, Vietnam** based **AI Engineer @ Concentrix**.  
 
-I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** to ship production-grade products that users love. Obsessed with developer productivity, clean architecture, and turning repetitive tasks into intelligent agents.
+I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** to ship production-grade products that users love.
 
 ---
 
@@ -52,7 +52,7 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VoTruongDanh&theme=tokyonight&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=VoTruongDanh&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=6)
 
 ---
 
@@ -64,13 +64,13 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ### 🌌 GitHub Skyline 3D (2025)
 
-[![GitHub Skyline](https://skyline.github.com/VoTruongDanh/2025)](https://skyline.github.com/VoTruongDanh/2025)
+**View my 3D contribution skyline →** [GitHub Skyline](https://skyline.github.com/VoTruongDanh/2025)
 
 ---
 
 ### 🏅 Holopin Badges
 
-[![Holopin Board](https://holopin.io/api/user/VoTruongDanh/badge)](https://holopin.io/@VoTruongDanh)
+*(Chưa có badge nào → hình sẽ không hiện. Xem hướng dẫn fix ngay bên dưới)*
 
 ---
 
