@@ -50,9 +50,9 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies (ĐÃ FIX)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VoTruongDanh&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=VoTruongDanh&theme=tokyonight&no-frame=true&margin-w=5&row=1&column=4)
 
 ---
 
