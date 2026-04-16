@@ -1,6 +1,6 @@
 # Hi, I'm Võ Trường Danh 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Engineer;Vibe+Coding+Enthusiast;Building+intelligent+systems+that+feel+magical;Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Engineer;Vibe+Coding+Enthusiast;Building+intelligent+systems+that+feel+magical;Turning+repetitive+work+into+automation;Ho+Chi+Minh+City+%F0%9F%87%BB%F0%9F%87%B3)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VoTruongDanh&color=6366f1&style=for-the-badge&logo=GitHub&label=PROFILE+VIEWS)
 
@@ -12,7 +12,13 @@
 
 **Ho Chi Minh City, Vietnam** based **AI Engineer @ Concentrix**.  
 
-I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** to ship production-grade products that users love.
+I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** to ship production-grade products that users love. Obsessed with developer productivity, clean architecture, and turning repetitive tasks into intelligent agents.
+
+---
+
+### 💡 Vibe Coding Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -56,9 +62,21 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ---
 
-### 🌌 GitHub Skyline 3D
+### 🌌 GitHub Skyline 3D (2025)
 
 [![GitHub Skyline](https://skyline.github.com/VoTruongDanh/2025)](https://skyline.github.com/VoTruongDanh/2025)
+
+---
+
+### 🏅 Holopin Badges
+
+[![Holopin Board](https://holopin.io/api/user/VoTruongDanh/badge)](https://holopin.io/@VoTruongDanh)
+
+---
+
+### ☕ Support My Vibe Coding Journey
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/votruongdanh)
 
 ---
 
