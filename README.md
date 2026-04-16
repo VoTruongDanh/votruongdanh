@@ -50,9 +50,9 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ---
 
-### 🏆 GitHub Trophies (ĐÃ FIX)
+### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=VoTruongDanh&theme=tokyonight&no-frame=true&margin-w=5&row=1&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=VoTruongDanh&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6)
 
 ---
 
@@ -64,7 +64,7 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ### 🌌 GitHub Skyline 3D (2025)
 
-**View my 3D contribution skyline →** [GitHub Skyline](https://skyline.github.com/VoTruongDanh/2025)
+**🚀 View my interactive 3D contribution skyline →** [GitHub Skyline](https://skyline.github.com/VoTruongDanh/2025)
 
 ---
 
