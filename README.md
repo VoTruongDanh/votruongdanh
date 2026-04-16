@@ -68,12 +68,6 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ---
 
-### 🏅 Holopin Badges
-
-*(Chưa có badge nào → hình sẽ không hiện. Xem hướng dẫn fix ngay bên dưới)*
-
----
-
 ### ☕ Support My Vibe Coding Journey
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/votruongdanh)
