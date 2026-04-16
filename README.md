@@ -50,12 +50,6 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ---
 
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=VoTruongDanh&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6)
-
----
-
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/VoTruongDanh/votruongdanh/output/github-contribution-grid-snake.svg)
