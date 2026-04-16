@@ -15,6 +15,9 @@
 I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** to ship production-grade products that users love. Obsessed with developer productivity, clean architecture, and turning repetitive tasks into intelligent agents.
 
 ---
+### 💡 Vibe Coding Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🛠️ Tech Stack
 
@@ -44,9 +47,8 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ---
 
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=VoTruongDanh&theme=tokyonight&no-frame=true&margin-w=15)
+### 🏅 Holopin Badges
+[![Holopin Board](https://holopin.io/api/user/VoTruongDanh/badge)](https://holopin.io/@VoTruongDanh)
 
 ---
 
@@ -64,4 +66,10 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ---
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/votruongdanh)
+
 *Crafted with ❤️ and maximum Vibe Coding energy in Vietnam* ☕
+
+### 🌌 GitHub Skyline 2025 (3D Contribution)
+
+[View my 3D GitHub Skyline](https://skyline.github.com/VoTruongDanh/2025)
