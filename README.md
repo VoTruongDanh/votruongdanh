@@ -26,7 +26,7 @@
 
 - **[Skills-Agent](https://github.com/VoTruongDanh/Skills-Agent)** — AI Agent giúp quản lý & cài đặt kỹ năng coding cho nhiều IDE (Cursor, VS Code…)
 - **[Karaoke_ChamDiemGiaiTri](https://github.com/VoTruongDanh/Karaoke_ChamDiemGiaiTri)** — Ứng dụng chấm điểm karaoke hiện đại, tích hợp YouTube & remote mobile (TypeScript)
-- **[XiDach](https://github.com/VoTruongDanh/XiDach)** — Game bài Xì Dách/Blackjack cao cấp với UI glassmorphism (Python)
+- **[XiDach](https://github.com/VoTruongDanh/XiDach)** — Ghi điểm bài Xì Dách/Blackjack cao cấp với UI glassmorphism (Python)
 - **[BackupARK](https://github.com/VoTruongDanh/BackupARK)** — Công cụ backup & restore save game ARK: Survival Evolved chuyên nghiệp (Python)
 - **[Extension](https://github.com/VoTruongDanh/Extension)** — Electron app quản lý & monitor system services (9Router, Claw…)
 
