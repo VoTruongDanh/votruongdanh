@@ -1,6 +1,6 @@
 # Hi, I'm Võ Trường Danh 👋
 
-**Full-Stack & AI Engineer** | Building intelligent systems that feel magical
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Engineer;Vibe+Coding+Enthusiast;Building+intelligent+systems+that+feel+magical;Turning+repetitive+work+into+automation)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VoTruongDanh&color=6366f1&style=for-the-badge&logo=GitHub&label=PROFILE+VIEWS)
 
@@ -52,8 +52,7 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/VoTruongDanh/VoTruongDanh/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/VoTruongDanh/votruongdanh/output/github-contribution-grid-snake.svg)
 
 ---
 
