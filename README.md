@@ -54,7 +54,6 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 
 ![Snake animation](https://raw.githubusercontent.com/VoTruongDanh/VoTruongDanh/output/github-contribution-grid-snake.svg)
 
-*(Snake sẽ tự động update hàng ngày sau khi bạn setup 1 lần – xem hướng dẫn bên dưới)*
 
 ---
 
