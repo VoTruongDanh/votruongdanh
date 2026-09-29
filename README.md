@@ -71,7 +71,7 @@ I combine **React ecosystems**, **TypeScript**, **modern backend**, and **AI** t
 ### 📫 Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-votruongdanh.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://votruongdanh.vercel.app/)
-[![Website](https://img.shields.io/badge/Website-votruongdanh.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)]([https://votruongdanh.vercel.app/](https://x3dvn.vercel.app/))
+[![Website](https://img.shields.io/badge/Website-x3dvn.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://x3dvn.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votruongdanh)
 [![Email](https://img.shields.io/badge/Email-vtd1501@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtd1501@gmail.com)
 
